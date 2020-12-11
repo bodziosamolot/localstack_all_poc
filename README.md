@@ -6,7 +6,7 @@
 
 For further information refer to:
 
-https://github.com/mateodelnorte/meta
+[meta-git project](https://github.com/mateodelnorte/meta)
 
 ## Clone the entire project structure
 
