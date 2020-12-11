@@ -1,1 +1,1 @@
-# localstack_all_poc
+meta git clone git@github.com:bodziosamolot/localstack_all_poc.git
