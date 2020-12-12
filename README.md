@@ -17,3 +17,15 @@ For further information refer to:
 - [ ] meta git add .
 - [ ] meta git commit -m "..."
 - [ ] meta git push
+
+# Troubleshooting
+
+1. When setting up a new branch with 
+
+`meta git checkout -b [branch name]`
+
+follow it up with
+
+`meta exec "git push --set-upstream origin [branch name]"`
+
+to set the branch for each module/folder/subrepository
