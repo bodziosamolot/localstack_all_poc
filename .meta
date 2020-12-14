@@ -1,8 +1,8 @@
 {
   "projects": {
-    "common": "git@github.com:bodziosamolot/localstack_common_poc.git",
-    "producer": "git@github.com:bodziosamolot/localstack_producer_poc.git",
-    "consumer": "git@github.com:bodziosamolot/localstack_consumer_poc.git",
-    "consumer_dotnet": "git@github.com:bodziosamolot/localstack_dotnet.git"
+    "common": "https://github.com/bodziosamolot/localstack_common_poc.git",
+    "producer": "https://github.com/bodziosamolot/localstack_producer_poc.git",
+    "consumer": "https://github.com/bodziosamolot/localstack_consumer_poc.git",
+    "consumer_dotnet": "https://github.com/bodziosamolot/localstack_dotnet.git"
   }
 }
