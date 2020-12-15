@@ -10,7 +10,7 @@ For further information refer to:
 
 **2. Clone the entire project structure**
 
-`meta git clone https://github.com/bodziosamolot/localstack_all_poc.git`
+`meta git clone git@github.com:bodziosamolot/localstack_all_poc.git`
 
 # Operating on meta repository
 
